@@ -1,6 +1,6 @@
 {
   "name": "material-design-lite-bundled",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "description": "Material Design Lite mirror for npm distribution",
   "main": "index.css",
   "repository": "yoshuawuyts/material-design-lite-bundled",
