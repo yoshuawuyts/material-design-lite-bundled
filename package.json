@@ -1,0 +1,21 @@
+{
+  "name": "material-design-lite-bundled",
+  "version": "3.0.2",
+  "description": "Reset the browser's styles",
+  "main": "index.css",
+  "repository": "yoshuawuyts/material-design-lite-bundled",
+  "keywords": [
+    "material",
+    "css",
+    "sheetify",
+    "cssnext"
+  ],
+  "license": "Apache-2.0",
+  "files": [
+    "LICENSE",
+    "index.css",
+    "reset.css",
+    "border-box.css"
+  ],
+  "scripts": {}
+}
